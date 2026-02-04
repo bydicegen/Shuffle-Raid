@@ -1,5 +1,0 @@
-{
-  "name": "Shuffle Raid",
-  "description": "Un RPG de cartas por turnos con modos Campaña, Individual y Multijugador sincronizado vía Firebase.",
-  "requestFramePermissions": []
-}
